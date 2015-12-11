@@ -8,5 +8,3 @@ chat request objects, much easier to work with.
 
 
 If you have any doubt just drop me some lines! :)
-
-Coded it with http://github.com/ramsak21
